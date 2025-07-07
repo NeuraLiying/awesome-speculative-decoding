@@ -10,8 +10,8 @@
 
 - **Authors**: Fabian Gloeckle, Badr Youbi Idrissi, Baptiste Rozière, David Lopez-Paz, Gabriel Synnaeve
 - **Year**: 2024
-- **arXiv**: [https://arxiv.org/pdf/2404.19737?]
-- **GitHub**: *N/A (no official code at the time of writing)*
+- **arXiv**: [https://arxiv.org/pdf/2404.19737]
+- **GitHub**: *N/A*
 - **Webpage**: *N/A*
 
 ---
