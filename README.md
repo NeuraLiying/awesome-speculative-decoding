@@ -10,9 +10,9 @@
 
 - **Authors**: Fabian Gloeckle, Badr Youbi Idrissi, Baptiste Rozière, David Lopez-Paz, Gabriel Synnaeve
 - **Year**: 2024
-- **arXiv**: [https://arxiv.org/abs/2402.19411](https://arxiv.org/abs/2402.19411)
+- **arXiv**: [https://arxiv.org/pdf/2404.19737?]
 - **GitHub**: *N/A (no official code at the time of writing)*
-- **Webpage**: [https://proceedings.mlr.press/v235/gloeckle24a.html](https://proceedings.mlr.press/v235/gloeckle24a.html)
+- **Webpage**: *N/A*
 
 ---
 
@@ -22,8 +22,8 @@
 
 - **Authors**: Yao Teng, Han Shi, Xian Liu, Xuefei Ning, Guohao Dai, Yu Wang, Zhenguo Li, Xihui Liu
 - **Year**: 2025
-- **arXiv**: [https://arxiv.org/abs/2406.10630](https://arxiv.org/abs/2406.10630)
-- **GitHub**: [https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD](https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD)
-- **Webpage**: *N/A (use arXiv link if no dedicated project page)*
+- **arXiv**: [https://arxiv.org/pdf/2410.01699]
+- **GitHub**: [https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD]
+- **Webpage**: *N/A*
 
 ---
