@@ -35,3 +35,13 @@
 - **Webpage**: *N/A*
 
 ---
+
+## Hybrid & Compositional Methods
+
+### LayerSkip: Enabling Early Exit Inference And Self-Speculative Decoding [ACL 2024]
+
+- **Authors**: Mostafa Elhoushi, Akshat Shrivastava, Diana Liskovich, Basil Hosmer, Bram Wasti, Liangzhen Lai, Anas Mahmoud, Bilge Acun, Saurabh Agrawal, Ahmed Roman, Ahmed A Aly, Beidi Chen, Carole Jean-Wu
+- **Year**: 2024
+- **arXiv**: [arxiv.org/abs/2404.16710](https://arxiv.org/abs/2404.16710)
+- **GitHub**: [github.com/facebookresearch/LayerSkip](https://github.com/facebookresearch/LayerSkip)
+- **Webpage**: *N/A*
