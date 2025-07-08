@@ -12,7 +12,6 @@
 - **Year**: 2024
 - **arXiv**: [arxiv.org/abs/2404.19737](https://arxiv.org/abs/2404.19737)
 - **GitHub**: *N/A*
-- **Webpage**: *N/A*
 
 ### EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty [ICML 2024]
 
@@ -20,7 +19,6 @@
 - **Year**: 2024
 - **arXiv**: [arxiv.org/abs/2401.15077](https://arxiv.org/abs/2401.15077)
 - **GitHub**: [github.com/SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE)
-- **Webpage**: *N/A*
 
 ---
 
@@ -32,7 +30,6 @@
 - **Year**: 2025
 - **arXiv**: [arxiv.org/abs/2410.01699](https://arxiv.org/abs/2410.01699)
 - **GitHub**: [github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD](https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD)
-- **Webpage**: *N/A*
 
 ---
 
@@ -44,4 +41,3 @@
 - **Year**: 2024
 - **arXiv**: [arxiv.org/abs/2404.16710](https://arxiv.org/abs/2404.16710)
 - **GitHub**: [github.com/facebookresearch/LayerSkip](https://github.com/facebookresearch/LayerSkip)
-- **Webpage**: *N/A*
