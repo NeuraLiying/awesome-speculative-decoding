@@ -14,6 +14,14 @@
 - **GitHub**: *N/A*
 - **Webpage**: *N/A*
 
+### EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty [ICML 2024]
+
+- **Authors**: Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang
+- **Year**: 2024
+- **arXiv**: [arxiv.org/abs/2401.15077](https://arxiv.org/abs/2401.15077)
+- **GitHub**: [github.com/SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE)
+- **Webpage**: *N/A*
+
 ---
 
 ## Training-Free Methods
