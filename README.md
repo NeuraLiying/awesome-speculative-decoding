@@ -24,8 +24,8 @@
 
 - **Authors**: Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang  
 - **Year**: 2025  
-- **arXiv**: [https://arxiv.org/pdf/2503.01840](https://arxiv.org/pdf/2503.01840)  
-- **GitHub**: [https://github.com/SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE)
+- **arXiv**: [arxiv.org/pdf/2503.01840](https://arxiv.org/pdf/2503.01840)  
+- **GitHub**: [github.com/SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE)
   
 ---
 
