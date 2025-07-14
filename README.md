@@ -27,7 +27,7 @@
 - **arXiv**: [arxiv.org/abs/2406.16858](https://arxiv.org/abs/2406.16858)  
 - **GitHub**: [github.com/SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE)
 
-### EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test [arXiv 2025]
+### EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test
 
 - **Authors**: Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang  
 - **Year**: 2025  
