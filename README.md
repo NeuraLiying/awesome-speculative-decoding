@@ -20,6 +20,13 @@
 - **arXiv**: [arxiv.org/abs/2401.15077](https://arxiv.org/abs/2401.15077)
 - **GitHub**: [github.com/SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE)
 
+### EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees [EMNLP 2024]
+
+- **Authors**: Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang  
+- **Year**: 2024  
+- **arXiv**: [arxiv.org/abs/2406.16858](https://arxiv.org/abs/2406.16858)  
+- **GitHub**: [github.com/SafeAILab/EAGLE](https://github.com/SafeAILab/EAGLE)
+
 ### EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test [arXiv 2025]
 
 - **Authors**: Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang  
