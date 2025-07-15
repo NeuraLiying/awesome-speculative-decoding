@@ -13,6 +13,13 @@
 - **arXiv**: [arxiv.org/abs/2404.19737](https://arxiv.org/abs/2404.19737)
 - **GitHub**: *N/A*
 
+### MEDUSA: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads [ICML 2024]
+
+- **Authors**: Tianle Cai, Yuhong Li, Zhengyang Geng, Hongwu Peng, Jason D. Lee, Deming Chen, Tri Dao  
+- **Year**: 2024  
+- **arXiv**: [arxiv.org/pdf/2401.10774](https://arxiv.org/pdf/2401.10774)  
+- **GitHub**: *N/A*
+
 ### EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty [ICML 2024]
 
 - **Authors**: Yuhui Li, Fangyun Wei, Chao Zhang, Hongyang Zhang
