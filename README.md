@@ -52,6 +52,14 @@
 - **arXiv**: [arxiv.org/abs/2410.01699](https://arxiv.org/abs/2410.01699)
 - **GitHub**: [github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD](https://github.com/tyshiwo1/Accelerating-T2I-AR-with-SJD)
 
+
+### Break the Sequential Dependency of LLM Inference Using LOOKAHEAD DECODING [ICML 2024]
+
+- **Authors**: Yichao Fu, Peter Bailis, Ion Stoica, Hao Zhang  
+- **Year**: 2024  
+- **arXiv**: [arxiv.org/pdf/2402.02057](https://arxiv.org/pdf/2402.02057)  
+- **GitHub**: [github.com/hao-ai-lab/LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding)
+
 ---
 
 ## Hybrid & Compositional Methods
@@ -62,3 +70,5 @@
 - **Year**: 2024
 - **arXiv**: [arxiv.org/abs/2404.16710](https://arxiv.org/abs/2404.16710)
 - **GitHub**: [github.com/facebookresearch/LayerSkip](https://github.com/facebookresearch/LayerSkip)
+
+  
