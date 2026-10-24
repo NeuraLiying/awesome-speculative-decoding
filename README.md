@@ -231,6 +231,7 @@ Speculative decoding accelerates autoregressive LLM inference by having a cheap 
 
 | Title | arXiv | GitHub | Year | Venue | One-line |
 |-------|-------|--------|------|-------|----------|
+| RelayTree: Relay-Assisted Tree-Based Speculative Decoding for Efficient Edge-Cloud LLM Inference | [IEEE Xplore](https://ieeexplore.ieee.org/document/11723260) | [repo](https://github.com/lumossie/RelayTree-Speculative-Decoding) | 2026 | IEEE TVT | Splits draft-tree generation across edge and cloud, replaying prefix tokens in the cloud to reduce uplink communication overhead. |
 | SpecBranch: Speculative Decoding via Hybrid Drafting and Branch Parallelism | [2506.01979](https://arxiv.org/abs/2506.01979) | / | 2025 | ICLR 26 | Hybrid drafting + rollback-aware branch parallelism. |
 | OmniDraft: A Cross-vocabulary, Online Adaptive Drafter for On-device SD | [2507.02659](https://arxiv.org/abs/2507.02659) | / | 2025 | NeurIPS 25 | Cross-vocabulary online-adaptive drafter for on-device inference. |
 | Dovetail: A CPU/GPU Heterogeneous Speculative Decoding for LLM Inference | [2412.18934](https://arxiv.org/abs/2412.18934) | / | 2024 | EMNLP 25 | Heterogeneous CPU/GPU SD. |
